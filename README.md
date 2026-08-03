@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/selection-frame.gif" width="520" alt="Figma-style selection frame animation" />
+  <img src="./assets/name-yishu.gif" width="560" alt="奕枢 yishu — Figma selection style" />
 </p>
 
-### yishu
+### yishu · 奕枢
 
 深圳 · 华侨大学 · 经济学 / 辅修汉语言文学  
 
