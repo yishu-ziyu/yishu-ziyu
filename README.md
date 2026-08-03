@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/selection-frame.svg" width="520" alt="Figma-style selection frame animation" />
+</p>
+
 ### yishu
 
 深圳 · 华侨大学 · 经济学 / 辅修汉语言文学  
