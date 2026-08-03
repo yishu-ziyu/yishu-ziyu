@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/selection-frame.svg" width="520" alt="Figma-style selection frame animation" />
+  <img src="./assets/selection-frame.gif" width="520" alt="Figma-style selection frame animation" />
 </p>
 
 ### yishu
