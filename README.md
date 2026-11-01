@@ -19,7 +19,6 @@
 * <a href='https://github.com/yishu-ziyu/what-the-port/releases/tag/v2.5.1-zh.1'>what-the-port v2.5.1-zh.1</a> - 2026-09-26
 * <a href='https://github.com/yishu-ziyu/By-Your-Side'>By Your Side · Chrome Web Store live</a> - 2026-11-01
 * <a href='https://github.com/yishu-ziyu/chrome-md-editor'>chrome-md-editor</a> - maintenance
-* <a href='https://github.com/yishu-ziyu/red-herring-and-gun'>red-herring-and-gun</a> - evidence chain
 <!-- recent_releases ends -->
 
 </td>
@@ -29,11 +28,9 @@
 
 <!-- blog starts -->
 * <a href='https://yishuziyu.cn'>yishuziyu.cn</a> - personal site
-* <a href='https://gun.yishuziyu.cn'>红鲱鱼与枪</a> - evidence-first check
 <!-- blog ends -->
 
 </td>
 </tr>
 </table>
 
-仓库以能复现、能验收为准。欢迎纯技术讨论。
