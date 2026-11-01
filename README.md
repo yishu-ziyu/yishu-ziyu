@@ -4,6 +4,13 @@
 
 <table>
 <tr>
+<td valign="top"><a href="https://github.com/yishu-ziyu/By-Your-Side"><img src="assets/bys-main.gif" alt="By Your Side：Agent 光标在网页上替你填表、选场次，侧栏同步对话" width="440"></a></td>
+<td valign="top"><a href="https://github.com/yishu-ziyu/what-the-port"><img src="assets/card-what-the-port.png" alt="what-the-port v2.5.1" width="300"></a><br><a href="https://github.com/yishu-ziyu/chrome-md-editor"><img src="assets/card-chrome-md-editor.png" alt="chrome-md-editor · Markdown" width="300"></a><br><a href="https://github.com/yishu-ziyu/By-Your-Side"><img src="assets/card-by-your-side.png" alt="By Your Side · Chrome Web Store" width="300"></a></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td valign="top" width="50%">
 
 #### 🏋️‍♀️ <a href="https://github.com/yishu-ziyu?tab=repositories">Product Releases</a>
