@@ -1,0 +1,31 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - preview/profile-2020-grid
+      - main
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          BLOCKS: "░█"
+          CODE_LANG: text
+          TARGET_BRANCH: ${{ github.ref_name }}
+          TARGET_PATH: README.md
+          COMMIT_MESSAGE: "chore: refresh WakaTime stats"
