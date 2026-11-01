@@ -32,17 +32,8 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-<!-- code_time starts -->
-
-```text
-TypeScript     ████████████░░░░░░░░  48%
-Python         ██████░░░░░░░░░░░░░░  22%
-Swift          ████░░░░░░░░░░░░░░░░  14%
-Shell          ███░░░░░░░░░░░░░░░░░  10%
-Other          ██░░░░░░░░░░░░░░░░░░   6%
-```
-
-<!-- code_time ends -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </td>
 <td valign="top" width="50%">
@@ -51,8 +42,6 @@ Other          ██░░░░░░░░░░░░░░░░░░   6%
 
 <!-- tinkering starts -->
 * By Your Side — Chrome 侧边栏 Agent
-* Her / TipTour — 桌面伴读与 handoff
-* design-parts-mcp — 设计零件库
 <!-- tinkering ends -->
 
 </td>
