@@ -27,32 +27,6 @@
 
 </td>
 </tr>
-<tr>
-<td valign="top" width="50%">
-
-#### 🏊‍♂️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-</td>
-<td valign="top" width="50%">
-
-#### 🤾‍♂️ 最近在折腾
-
-<!-- tinkering starts -->
-* By Your Side — Chrome 侧边栏 Agent
-<!-- tinkering ends -->
-
-</td>
-</tr>
 </table>
 
 仓库以能复现、能验收为准。欢迎纯技术讨论。
