@@ -27,4 +27,5 @@ jobs:
           BLOCKS: "░█"
           CODE_LANG: text
           TARGET_BRANCH: ${{ github.ref_name }}
+          TARGET_PATH: README.md
           COMMIT_MESSAGE: "chore: refresh WakaTime stats"
